@@ -274,7 +274,7 @@ The `justifyContent` property determines how items are distributed horizontally 
 * `justifyContent="evenly"`: Items are evenly distributed within the container with equal space between them, before the first item, and after the last item.
 
 
-#### Exploring Specific Combinations
+#### Exploring Specific Combinations 
 
 * justifyContent="start" and align="start": 
     Items are aligned to the start both horizontally and vertically within the container.
