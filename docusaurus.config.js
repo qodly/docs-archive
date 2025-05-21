@@ -12,7 +12,7 @@ const config = {
   title: 'Qodly Documentation',
   tagline: 'Learn. Build. Ship. Everything you need for Qodly.',
   url: isProduction ? "https://developer.qodly.com" : "https://docqodly.github.io",
-  baseUrl: "/docs/",
+  baseUrl: "/docs-archive/",
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.svg',
