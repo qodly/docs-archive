@@ -9,7 +9,7 @@ const isProduction = process.env.GITHUB_REPOSITORY_OWNER === 'qodly';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Qodly Documentation',
+  title: 'Qodly Documentation (Archive)',
   tagline: 'Learn. Build. Ship. Everything you need for Qodly.',
   url: isProduction ? "https://developer.qodly.com" : "https://docqodly.github.io",
   baseUrl: "/docs-archive/",
